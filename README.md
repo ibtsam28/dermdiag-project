@@ -1,0 +1,2 @@
+# dermdiag-project
+graduation project
